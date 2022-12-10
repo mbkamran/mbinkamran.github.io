@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c60324f.chunk.css",
+    "main.js": "/static/js/main.4faefb36.chunk.js",
+    "main.js.map": "/static/js/main.4faefb36.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b230f4e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b230f4e.js.map",
+    "static/css/2.f26e749f.chunk.css": "/static/css/2.f26e749f.chunk.css",
+    "static/js/2.d02c0992.chunk.js": "/static/js/2.d02c0992.chunk.js",
+    "static/js/2.d02c0992.chunk.js.map": "/static/js/2.d02c0992.chunk.js.map",
+    "static/js/3.8c0452fb.chunk.js": "/static/js/3.8c0452fb.chunk.js",
+    "static/js/3.8c0452fb.chunk.js.map": "/static/js/3.8c0452fb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.5c60324f.chunk.css.map": "/static/css/main.5c60324f.chunk.css.map",
+    "static/js/2.d02c0992.chunk.js.LICENSE.txt": "/static/js/2.d02c0992.chunk.js.LICENSE.txt",
+    "static/media/Reward.css": "/static/media/train4.3a5fa207.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b230f4e.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.d02c0992.chunk.js",
+    "static/css/main.5c60324f.chunk.css",
+    "static/js/main.4faefb36.chunk.js"
+  ]
+}
